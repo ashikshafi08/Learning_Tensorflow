@@ -8,3 +8,7 @@ If you are aware of my previous repo which named Learning_Fastai, I feel good wh
 * Go through the Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. [https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291]. 
 
 Gotta more to add, this repo will look bit tidy in coming days. Stay tuned 🙌🏽
+
+## TO DO
+- Notes taken on Notion (link) -- Upload soon
+- Construct a Anki board 
