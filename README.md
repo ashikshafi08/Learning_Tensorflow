@@ -9,6 +9,9 @@ If you are aware of my previous repo which named Learning_Fastai, I feel good wh
 
 Gotta more to add, this repo will look bit tidy in coming days. Stay tuned 🙌🏽
 
+## ``` Notion Notes ``` 
+- [Transfer_Learning_Feature_Extraction_with_TensorFlow](https://www.notion.so/Feature-Extraction-73c23ec1ee824c369d5deb083c9549e4)
+
 ## TO DO
 - Notes taken on Notion (link) -- Upload soon
 - Construct a Anki board 
