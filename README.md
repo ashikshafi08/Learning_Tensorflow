@@ -11,6 +11,7 @@ Gotta more to add, this repo will look bit tidy in coming days. Stay tuned ðŸ™Œð
 
 ## ``` Notion Notes ``` 
 - [Transfer_Learning_Feature_Extraction_with_TensorFlow](https://www.notion.so/Feature-Extraction-73c23ec1ee824c369d5deb083c9549e4)
+- [Transfer Learning Fine Tuning with TensorFlow](https://www.notion.so/Fine-Tuning-the-model-8af89942caf2473caed6b0dc165cee49)
 
 ## TO DO
 - Notes taken on Notion (link) -- Upload soon
