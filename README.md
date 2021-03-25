@@ -10,8 +10,9 @@ If you are aware of my previous repo which named Learning_Fastai, I feel good wh
 Gotta more to add, this repo will look bit tidy in coming days. Stay tuned 🙌🏽
 
 ## ``` Notion Notes ``` 
-- [Transfer_Learning_Feature_Extraction_with_TensorFlow](https://www.notion.so/Feature-Extraction-73c23ec1ee824c369d5deb083c9549e4)
-- [Transfer Learning Fine Tuning with TensorFlow](https://www.notion.so/Fine-Tuning-the-model-8af89942caf2473caed6b0dc165cee49)
+- [Transfer_Learning - Feature_Extraction_with_TensorFlow](https://www.notion.so/Feature-Extraction-73c23ec1ee824c369d5deb083c9549e4)
+- [Transfer Learning - Fine Tuning with TensorFlow](https://www.notion.so/Fine-Tuning-the-model-8af89942caf2473caed6b0dc165cee49)
+- [Transfer Learning - Scaling up the models with TensorFlow](https://www.notion.so/Scaling-up-the-Models-a6a0a6e8d7b349ceb95edd5d3625a8ee)
 
 ## TO DO
 - Notes taken on Notion (link) -- Upload soon
