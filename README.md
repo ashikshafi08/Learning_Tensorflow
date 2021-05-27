@@ -13,6 +13,7 @@ Gotta more to add, this repo will look bit tidy in coming days. Stay tuned ðŸ™Œð
 - [Transfer_Learning - Feature_Extraction_with_TensorFlow](https://www.notion.so/Feature-Extraction-73c23ec1ee824c369d5deb083c9549e4)
 - [Transfer Learning - Fine Tuning with TensorFlow](https://www.notion.so/Fine-Tuning-the-model-8af89942caf2473caed6b0dc165cee49)
 - [Transfer Learning - Scaling up the models with TensorFlow](https://www.notion.so/Scaling-up-the-Models-a6a0a6e8d7b349ceb95edd5d3625a8ee)
+- [Introduction to Natural Language Processing with TensorFlow](https://www.notion.so/Introduction-to-Natural-Language-Processing-8bdb830099134a429400f7d006fa1cb1)
 
 ## TO DO
 - Notes taken on Notion (link) -- Upload soon
